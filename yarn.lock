@@ -5016,6 +5016,13 @@ react-native-easy-toast@^1.2.0:
   dependencies:
     prop-types "^15.5.10"
 
+react-native-event-bus@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-event-bus/-/react-native-event-bus-1.0.0.tgz#e193b17bb8639b623f1d72e8596e0cd8635b59d1"
+  integrity sha512-Ox/aKV0tKZyVU8SuMY/6UPVQ3BRn592iG96dN6AuG5gEx7HnR+DwzvWV3R9e1apkaL31UcUNfBret8r/B4dU8Q==
+  dependencies:
+    prop-types "^15.5.7"
+
 react-native-gesture-handler@^1.1.0:
   version "1.1.0"
   resolved "https://registry.npm.taobao.org/react-native-gesture-handler/download/react-native-gesture-handler-1.1.0.tgz#2a7d545ad2e0ca23adce22b2af441ad360ecccee"
@@ -6154,9 +6161,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.19"
-  resolved "http://registry.npm.taobao.org/ua-parser-js/download/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
-  integrity sha1-lBUb5MCn+x0AGvcCL9rKRkJlnks=
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uglify-es@^3.1.9:
   version "3.3.9"
